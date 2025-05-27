@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ethersproject/contracts": "^5.8.0",
+    "@ethersproject/providers": "^5.8.0",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "ethers": "^5.7.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "web3": "^4.16.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@vitejs/plugin-react": "^4.5.0",
+    "hardhat": "^2.24.1",
+    "vite": "^6.3.5"
+  }
+}
